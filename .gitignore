@@ -1,1 +1,29 @@
+# Virtual environments
 venv/
+env/
+ENV/
+.venv/
+.ENV/
+.env/
+.myenv/
+
+# VS Code settings
+.vscode/
+
+# macOS stuff
+.DS_Store
+
+
+# Log files
+*.log
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+.pytest_cache/
