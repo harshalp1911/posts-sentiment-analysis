@@ -2,10 +2,7 @@
 venv/
 env/
 ENV/
-.venv/
-.ENV/
-.env/
-.myenv/
+
 
 # VS Code settings
 .vscode/
